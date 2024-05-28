@@ -1,0 +1,363 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "title": "Beef",
+      "image": "https://www.themealdb.com/images/category/beef.png",
+      "titleDescription": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times.[1] Beef is a source of high-quality protein and essential nutrients.[2]"
+    },
+    {
+      "id": "2",
+      "title": "Chicken",
+      "image": "https://www.themealdb.com/images/category/chicken.png",
+      "titleDescription": "Chicken is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals, with a total population of more than 19 billion as of 2011.[1] Humans commonly keep chickens as a source of food (consuming both their meat and eggs) and, more rarely, as pets."
+    },
+    {
+      "id": "3",
+      "title": "Dessert",
+      "image": "https://www.themealdb.com/images/category/dessert.png",
+      "titleDescription": "Dessert is a course that concludes a meal. The course usually consists of sweet foods, such as confections dishes or fruit, and possibly a beverage such as dessert wine or liqueur, however in the United States it may include coffee, cheeses, nuts, or other savory items regarded as a separate course elsewhere. In some parts of the world, such as much of central and western Africa, and most parts of China, there is no tradition of a dessert course to conclude a meal.\r\n\r\nThe term dessert can apply to many confections, such as biscuits, cakes, cookies, custards, gelatins, ice creams, pastries, pies, puddings, and sweet soups, and tarts. Fruit is also commonly found in dessert courses because of its naturally occurring sweetness. Some cultures sweeten foods that are more commonly savory to create desserts."
+    },
+    {
+      "id": "4",
+      "title": "Lamb",
+      "image": "https://www.themealdb.com/images/category/lamb.png",
+      "titleDescription": "Lamb, hogget, and mutton are the meat of domestic sheep (species Ovis aries) at different ages.\r\n\r\nA sheep in its first year is called a lamb, and its meat is also called lamb. The meat of a juvenile sheep older than one year is hogget; outside the USA this is also a term for the living animal. The meat of an adult sheep is mutton, a term only used for the meat, not the living animals. The term mutton is almost always used to refer to goat meat in the Indian subcontinent.\r\n\r\n"
+    },
+    {
+      "id": "5",
+      "title": "Miscellaneous",
+      "image": "https://www.themealdb.com/images/category/miscellaneous.png",
+      "titleDescription": "General foods that don't fit into another category"
+    },
+    {
+      "id": "6",
+      "title": "Pasta",
+      "image": "https://www.themealdb.com/images/category/pasta.png",
+      "titleDescription": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily.\r\n\r\nAlso commonly used to refer to the variety of pasta dishes, pasta is typically a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and formed into sheets or various shapes, then cooked by boiling or baking. As an alternative for those wanting a different taste, or who need to avoid products containing gluten, some pastas can be made using rice flour in place of wheat.[3][4] Pastas may be divided into two broad categories, dried (pasta secca) and fresh (pasta fresca)."
+    },
+    {
+      "id": "7",
+      "title": "Pork",
+      "image": "https://www.themealdb.com/images/category/pork.png",
+      "titleDescription": "Pork is the culinary name for meat from a domestic pig (Sus scrofa domesticus). It is the most commonly consumed meat worldwide,[1] with evidence of pig husbandry dating back to 5000 BC. Pork is eaten both freshly cooked and preserved. Curing extends the shelf life of the pork products. Ham, smoked pork, gammon, bacon and sausage are examples of preserved pork. Charcuterie is the branch of cooking devoted to prepared meat products, many from pork.\r\n\r\nPork is the most popular meat in Eastern and Southeastern Asia, and is also very common in the Western world, especially in Central Europe. It is highly prized in Asian cuisines for its fat content and pleasant texture. Consumption of pork is forbidden by Jewish and Muslim dietary law, a taboo that is deeply rooted in tradition, with several suggested possible causes. The sale of pork is limited in Israel and illegal in certain Muslim countries."
+    },
+    {
+      "id": "8",
+      "title": "Seafood",
+      "image": "https://www.themealdb.com/images/category/seafood.png",
+      "titleDescription": "Seafood is any form of sea life regarded as food by humans. Seafood prominently includes fish and shellfish. Shellfish include various species of molluscs, crustaceans, and echinoderms. Historically, sea mammals such as whales and dolphins have been consumed as food, though that happens to a lesser extent in modern times. Edible sea plants, such as some seaweeds and microalgae, are widely eaten as seafood around the world, especially in Asia (see the category of sea vegetables). In North America, although not generally in the United Kingdom, the term \"seafood\" is extended to fresh water organisms eaten by humans, so all edible aquatic life may be referred to as seafood. For the sake of completeness, this article includes all edible aquatic life."
+    },
+    {
+      "id": "9",
+      "title": "Side",
+      "image": "https://www.themealdb.com/images/category/side.png",
+      "titleDescription": "A side dish, sometimes referred to as a side order, side item, or simply a side, is a food item that accompanies the entrée or main course at a meal. Side dishes such as salad, potatoes and bread are commonly used with main courses throughout many countries of the western world. New side orders introduced within the past decade[citation needed], such as rice and couscous, have grown to be quite popular throughout Europe, especially at formal occasions (with couscous appearing more commonly at dinner parties with Middle Eastern dishes)."
+    },
+    {
+      "id": "10",
+      "title": "Starter",
+      "image": "https://www.themealdb.com/images/category/starter.png",
+      "titleDescription": "An entrée in modern French table service and that of much of the English-speaking world (apart from the United States and parts of Canada) is a dish served before the main course of a meal; it may be the first dish served, or it may follow a soup or other small dish or dishes. In the United States and parts of Canada, an entrée is the main dish or the only dish of a meal.\r\n\r\nHistorically, the entrée was one of the stages of the “Classical Order” of formal French table service of the 18th and 19th centuries. It formed a part of the “first service” of the meal, which consisted of potage, hors d’œuvre, and entrée (including the bouilli and relevé). The “second service” consisted of roast (rôti), salad, and entremets (the entremets sometimes being separated into a “third service” of their own). The final service consisted only of dessert.[3]:3–11 :13–25"
+    },
+    {
+      "id": "11",
+      "title": "Vegan",
+      "image": "https://www.themealdb.com/images/category/vegan.png",
+      "titleDescription": "Veganism is both the practice of abstaining from the use of animal products, particularly in diet, and an associated philosophy that rejects the commodity status of animals.[b] A follower of either the diet or the philosophy is known as a vegan (pronounced /ˈviːɡən/ VEE-gən). Distinctions are sometimes made between several categories of veganism. Dietary vegans (or strict vegetarians) refrain from consuming animal products, not only meat but also eggs, dairy products and other animal-derived substances.[c] The term ethical vegan is often applied to those who not only follow a vegan diet but extend the philosophy into other areas of their lives, and oppose the use of animals for any purpose.[d] Another term is environmental veganism, which refers to the avoidance of animal products on the premise that the harvesting or industrial farming of animals is environmentally damaging and unsustainable."
+    },
+    {
+      "id": "12",
+      "title": "Vegetarian",
+      "image": "https://www.themealdb.com/images/category/vegetarian.png",
+      "titleDescription": "Vegetarianism is the practice of abstaining from the consumption of meat (red meat, poultry, seafood, and the flesh of any other animal), and may also include abstention from by-products of animal slaughter.\r\n\r\nVegetarianism may be adopted for various reasons. Many people object to eating meat out of respect for sentient life. Such ethical motivations have been codified under various religious beliefs, as well as animal rights advocacy. Other motivations for vegetarianism are health-related, political, environmental, cultural, aesthetic, economic, or personal preference. There are variations of the diet as well: an ovo-lacto vegetarian diet includes both eggs and dairy products, an ovo-vegetarian diet includes eggs but not dairy products, and a lacto-vegetarian diet includes dairy products but not eggs. A vegan diet excludes all animal products, including eggs and dairy. Some vegans also avoid other animal products such as beeswax, leather or silk clothing, and goose-fat shoe polish."
+    },
+    {
+      "id": "13",
+      "title": "Breakfast",
+      "image": "https://www.themealdb.com/images/category/breakfast.png",
+      "titleDescription": "Breakfast is the first meal of a day. The word in English refers to breaking the fasting period of the previous night. There is a strong likelihood for one or more \"typical\", or \"traditional\", breakfast menus to exist in most places, but their composition varies widely from place to place, and has varied over time, so that globally a very wide range of preparations and ingredients are now associated with breakfast."
+    },
+    {
+      "id": "14",
+      "title": "Goat",
+      "image": "https://www.themealdb.com/images/category/goat.png",
+      "titleDescription": "The domestic goat or simply goat (Capra aegagrus hircus) is a subspecies of C. aegagrus domesticated from the wild goat of Southwest Asia and Eastern Europe. The goat is a member of the animal family Bovidae and the subfamily Caprinae, meaning it is closely related to the sheep. There are over 300 distinct breeds of goat. Goats are one of the oldest domesticated species of animal, and have been used for milk, meat, fur and skins across much of the world. Milk from goats is often turned into goat cheese."
+    }
+  ],
+  "recipes": [
+    {
+      "id": "52977",
+      "title": "DADAD",
+      "price": "500.55",
+      "category": "Pork",
+      "strArea": "Turkish",
+      "description": "Pick through your lentils for any foreign debris, rinse them 2 or 3 ti",
+      "image": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg"
+    },
+    {
+      "id": "53026",
+      "title": "Tamiya",
+      "price": "12.55",
+      "category": "Vegetarian",
+      "strArea": "Egyptian",
+      "description": "oak the beans in water to cover overnight.Drain. If skinless beans are unavailable, rub to loosen the skins, then discard the skins. Pat the beans dry with a towel.\nGrind the beans in a food mill or meat grinder.If neither appliance is available, process them in a food processor but only until the beans form a paste. (If blended too smoothly, the batter tends to fall apart during cooking.) Add the scallions, garlic, cilantro, cumin, baking powder, cayenne, salt, pepper, and coriander, if using.  Refrigerate for at least 30 minutes.\nShape the bean mixture into 1-inch balls.Flatten slightly and coat with flour.\nHeat at least 1½-inches of oil over medium heat to 365 degrees.\nFry the patties in batches, turning once, until golden brown on all sides, about 5 minutes.Remove with a wire mesh skimmer or slotted spoon. Serve as part of a meze or in pita bread with tomato-cucumber salad and tahina sauce.",
+      "image": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=mulqW-J3Yy4",
+      "strSource": "https://oukosher.org/recipes/tamiya-egyptian-dried-fava-bean-fritters/"
+    },
+    {
+      "id": "52844",
+      "title": "Lasagne",
+      "price": 12.55,
+      "category": "Pasta",
+      "strArea": "Italian",
+      "description": "Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board. Add the bacon to the pan and cook for just a few mins until starting to turn golden. Add the onion, celery and carrot, and cook over a medium heat for 5 mins, stirring occasionally, until softened.\r\nAdd the garlic and cook for 1 min, then tip in the mince and cook, stirring and breaking it up with a wooden spoon, for about 6 mins until browned all over.\r\nStir in the tomato purée and cook for 1 min, mixing in well with the beef and vegetables. Tip in the chopped tomatoes. Fill each can half full with water to rinse out any tomatoes left in the can, and add to the pan. Add the honey and season to taste. Simmer for 20 mins.\r\nHeat oven to 200C/180C fan/gas 6. To assemble the lasagne, ladle a little of the ragu sauce into the bottom of the roasting tin or casserole dish, spreading the sauce all over the base. Place 2 sheets of lasagne on top of the sauce overlapping to make it fit, then repeat with more sauce and another layer of pasta. Repeat with a further 2 layers of sauce and pasta, finishing with a layer of pasta.\r\nPut the crème fraîche in a bowl and mix with 2 tbsp water to loosen it and make a smooth pourable sauce. Pour this over the top of the pasta, then top with the mozzarella. Sprinkle Parmesan over the top and bake for 25–30 mins until golden and bubbling. Serve scattered with basil, if you like.",
+      "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=gfhfsBPt46s",
+      "strSource": "https://www.bbcgoodfood.com/recipes/classic-lasagne"
+    },
+    {
+      "id": "52971",
+      "title": "Kafteji",
+      "price": 12.55,
+      "category": "Vegetarian",
+      "strArea": "Tunisian",
+      "description": "Peel potatoes and cut into 5cm cubes.\r\nPour 1-2 cm of olive oil into a large pan and heat up very hot. Fry potatoes until golden brown for 20 minutes, turning from time to time. Place on kitchen paper to drain.\r\nCut the peppers in half and remove seeds. Rub a little olive oil on them and place the cut side down on a baking tray. Place them under the grill. Grill until the skin is dark and bubbly. While the peppers are still hot, put them into a plastic sandwich bag and seal it. Take them out after 15 minutes and remove skins.\r\nIn the meantime, heat more olive oil another pan. Peel the onions and cut into thin rings. Fry for 15 minutes until golden brown, turning them often. Add the Ras el hanout at the end.\r\nCut the pumpkin into 5cm cubes and fry in the same pan you used for the potatoes for 10-15 minutes until it is soft and slightly browned. Place on kitchen paper.\r\nPour the remaining olive oil out of the pan and put all the cooked vegetables into the pan and mix. Whisk eggs and pour them over the vegetables. Put the lid on the pan so that the eggs cook. Put the contents of the pan onto a large chopping board, add salt and pepper and chopped and mix everything with a big knife.",
+      "image": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=-TFf-Zu-xQU",
+      "strSource": "http://allrecipes.co.uk/recipe/12294/kafteji--tunisian-fried-vegetables-.aspx"
+    },
+    {
+      "id": "52785",
+      "title": "Dal fry",
+      "price": 12.55,
+      "category": "Vegetarian",
+      "strArea": "Indian",
+      "description": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water.\r\nCook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup.\r\nIn a frying pan, heat the ghee. Add cumin seeds, and mustard seeds. After the seeds crack, add bay leaves, green chili, ginger and chili powder. Stir for a few seconds.\r\nAdd tomatoes, salt and sugar stir and cook until tomatoes are tender and mushy.\r\nAdd cilantro and garam masala cook for about one minute.\r\nPour the seasoning over dal mix it well and cook for another minute.\r\nServe with Naan.",
+      "image": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=J4D855Q9-jg",
+      "strSource": "https://www.instagram.com/p/BO21bpYD3Fu"
+    },
+    {
+      "id": "53013",
+      "title": "Big Mac",
+      "price": 12.55,
+      "category": "Beef",
+      "strArea": "American",
+      "description": "For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use.\r\n2. To make the patties, season the mince with salt and pepper and form into 4 balls using about 1/3 cup mince each. Place each onto a square of baking paper and flatten to form into four x 15cm circles. Heat oil in a large frypan over high heat. In 2 batches, cook beef patties for 1-2 minutes each side until lightly charred and cooked through. Remove from heat and keep warm. Repeat with remaining two patties.\r\n3. Carefully slice each burger bun into three acrossways, then lightly toast.\r\n4. To assemble the burgers, spread a little Big Mac sauce over the bottom base. Top with some chopped onion, shredded lettuce, slice of cheese, beef patty and some pickle slices. Top with the middle bun layer, and spread with more Big Mac sauce, onion, lettuce, pickles, beef patty and then finish with more sauce. Top with burger lid to serve.\r\n5. After waiting half an hour for your food to settle, go for a jog.",
+      "image": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=C5J39YnnPsg",
+      "strSource": "https://www.delicious.com.au/recipes/finally-recipe-worlds-top-selling-burger-big-mac/5221ee4a-279e-4a0b-8629-f442dc46822e"
+    },
+    {
+      "id": "53027",
+      "title": "Koshari",
+      "price": 12.55,
+      "category": "Vegetarian",
+      "strArea": "Egyptian",
+      "description": "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes). Drain from water and season with a little salt. (Note: when the lentils are ready, they should not be fully cooked. They should be only par-cooked and still have a bite to them as they need to finish cooking with the rice).\r\nNow, for the rice. Drain the rice from its soaking water. Combine the par-cooked lentils and the rice in the saucepan over medium-high heat with 1 tbsp cooking oil, salt, pepper, and coriander. Cook for 3 minutes, stirring regularly. Add warm water to cover the rice and lentil mixture by about 1 1/2 inches (you’ll probably use about 3 cups of water here). Bring to a boil; the water should reduce a bit. Now cover and cook until all the liquid has been absorbed and both the rice and lentils are well cooked through (about 20 minutes).  Keep covered and undisturbed for 5 minutes or so.\r\nNow make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain.\r\nCover the chickpeas and warm in the microwave briefly before serving.\r\n\r\nMake the crispy onion topping. \r\n\r\nSprinkle the onion rings with salt, then toss them in the flour to coat. Shake off excess flour.\r\nIn a large skillet, heat the cooking oil over medium-high heat, cook the onion rings, stirring often, until they turn a nice caramelized brown. Onions must be crispy, but not burned (15-20 minutes).",
+      "image": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=y0d2ZMZBW4Y",
+      "strSource": "https://www.themediterraneandish.com/egyptian-koshari-recipe/"
+    },
+    {
+      "id": "52769",
+      "title": "Kapsalon",
+      "price": 12.55,
+      "category": "Lamb",
+      "strArea": "Dutch",
+      "description": "Cut the meat into strips. Heat oil in a pan and fry the strips for 6 minutes until it's ready.\r\nBake the fries until golden brown in a deep fryrer. When ready transfer to a backing dish. Make sure the fries are spread over the whole dish.\r\nCover the fries with a new layer of meat and spread evenly.\r\nAdd a layer of cheese over the meat. You can also use grated cheese. When done put in the oven for a few minutes until the cheese is melted.\r\nChop the lettuce, tomato and cucumber in small pieces and mix together. for a basic salad. As extra you can add olives jalapenos and a red union.\r\nDived the salad over the dish and Serve with garlicsauce and hot sauce",
+      "image": "https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=UIcuiU1kV8I",
+      "strSource": null
+    },
+    {
+      "id": "52980",
+      "title": "Stamppot",
+      "price": 12.55,
+      "category": "Pork",
+      "strArea": "Dutch",
+      "description": "\r\nWash and peel the potatoes and cut into similarly sized pieces for even cooking.\r\n\r\nIn a large soup pot, boil the potatoes and the bay leaves in salted water for 20 minutes. Discard the bay leaves.\r\n\r\nIf you're not using a bag of ready-cut curly kale, wash the bunches thoroughly under cool running water to get rid of all soil—you wouldn't want that gritty texture in your finished dish. Trim any coarse stems and discard any brown leaves. With a sharp knife, cut the curly kale into thin strips.\r\n\r\nPeel and chop the shallots.\r\n\r\nIn a frying pan or skillet, melt 1 tbsp. of butter and saute the shallots for a few minutes before adding the curly kale and 2 tbsp. of water. Season and cook for about 10 minutes, or until tender.\r\n\r\nWarm the milk on the stove or in the microwave.\r\n\r\nDrain, shake and dry the potatoes with kitchen towels before mashing with a potato masher or ricer. Working quickly, add the warm milk and the remaining butter. Season to taste with nutmeg, salt, and pepper. \r\n\r\nMix the cooked curly kale through the cooked mashed potato mixture.\r\n\r\nTop with slices of the smoked sausage and serve hot with your favorite mustard or gravy.\r\n\r\nServe and enjoy!",
+      "image": "https://www.themealdb.com/images/media/meals/hyarod1565090529.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=hTrSXryX31A",
+      "strSource": "https://www.thespruceeats.com/stamppot-with-curly-kale-and-rookworst-1128837"
+    },
+    {
+      "id": "52906",
+      "title": "Flamiche",
+      "price": 12.55,
+      "category": "Vegetarian",
+      "strArea": "French",
+      "description": "For the pastry, sift the flour and salt into the bowl of a food processor, add the butter and lard, then whizz together briefly until the mixture looks like fine breadcrumbs. Tip the mixture into a bowl, then stir in the cheese and enough of the water for the mixture to come together. Tip out onto a lightly floured surface and knead briefly until smooth. Roll out thinly and line a 23cm x 4cm loose-?bottomed fluted flan tin. Prick the base with a fork. Chill for 20 minutes.\r\n02.Melt the 75g butter in a saucepan over a low heat, then add the leeks and the salt. Cover and cook for ?10 minutes until soft. Uncover the pan, increase the heat and cook ?for 2 minutes, stirring occasionally, until the liquid has evaporated. Spoon onto a plate and leave to cool.\r\n03.Preheat the oven to 200°C/fan180°C/gas 6. Line the pastry case with baking paper and baking beans or rice and blind bake for 15-20 minutes until the edges are biscuit-coloured. Remove the paper and beans/rice and return the case to the oven for 7-10 minutes until the base is crisp and lightly golden. Remove and set aside. Reduce the oven temperature to 190°C/fan170°C/gas 5.\r\n04.Put the crème fraîche into a bowl with the whole egg, egg yolks and nutmeg. Lightly beat together, then season. Stir in the leeks. Spoon ?the mixture into the tart case and bake for 35-40 minutes until set ?and lightly golden. Remove from ?the oven and leave for 10 minutes. Take out of the tin and serve.",
+      "image": "https://www.themealdb.com/images/media/meals/wssvvs1511785879.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=vT0q5c880Rg",
+      "strSource": "http://www.deliciousmagazine.co.uk/recipes/flamiche-flemish-leek-tart/"
+    },
+    {
+      "id": "53006",
+      "title": "Moussaka",
+      "price": 12.55,
+      "category": "Beef",
+      "strArea": "Greek",
+      "description": "Heat the grill to high. Brown the beef in a deep ovenproof frying pan over a high heat for 5 mins. Meanwhile, prick the aubergine with a fork, then microwave on High for 3-5 mins until soft. Mix the yogurt, egg and parmesan together, then add a little seasoning.\r\n\r\nStir the tomatoes, purée and potatoes in with the beef with some seasoning and heat through. Smooth the surface of the beef mixture with the back of a spoon, then slice the cooked aubergine and arrange on top. Pour the yogurt mixture over the aubergines, smooth out evenly, then grill until the topping has set and turned golden.",
+      "image": "https://www.themealdb.com/images/media/meals/ctg8jd1585563097.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=8U_29i9Qp5U",
+      "strSource": "https://www.bbcgoodfood.com/recipes/must-make-moussaka"
+    },
+    {
+      "id": "52854",
+      "title": "Pancakes",
+      "price": 12.55,
+      "category": "Dessert",
+      "strArea": "American",
+      "description": "Put the flour, eggs, milk, 1 tbsp oil and a pinch of salt into a bowl or large jug, then whisk to a smooth batter. Set aside for 30 mins to rest if you have time, or start cooking straight away.\r\nSet a medium frying pan or crêpe pan over a medium heat and carefully wipe it with some oiled kitchen paper. When hot, cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven as you go.\r\nServe with lemon wedges and sugar, or your favourite filling. Once cold, you can layer the pancakes between baking parchment, then wrap in cling film and freeze for up to 2 months.",
+      "image": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=LWuuCndtJr0",
+      "strSource": "https://www.bbcgoodfood.com/recipes/2907669/easy-pancakes"
+    },
+    {
+      "id": "53028",
+      "title": "Shawarma",
+      "price": 12.55,
+      "category": "Chicken",
+      "strArea": "Egyptian",
+      "description": "Combine the marinade ingredients in a large ziplock bag (or bowl).\r\nAdd the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece.\r\nMarinate overnight or up to 24 hours.\r\nCombine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge).\r\nHeat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)\r\nPlace chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time).\r\nRemove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.\r\nTO SERVE\r\nSlice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce.\r\nTo make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!",
+      "image": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=3lxUIeKDgic",
+      "strSource": "https://www.recipetineats.com/chicken-sharwama-middle-eastern/"
+    },
+    {
+      "id": "52963",
+      "title": "Shakshuka",
+      "price": 12.55,
+      "category": "Vegetarian",
+      "strArea": "Egyptian",
+      "description": "Heat the oil in a frying pan that has a lid, then soften the onions, chilli, garlic and coriander stalks for 5 mins until soft. Stir in the tomatoes and sugar, then bubble for 8-10 mins until thick. Can be frozen for 1 month.\r\n\r\nUsing the back of a large spoon, make 4 dips in the sauce, then crack an egg into each one. Put a lid on the pan, then cook over a low heat for 6-8 mins, until the eggs are done to your liking. Scatter with the coriander leaves and serve with crusty bread.",
+      "image": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=C-3_jYrfdBU",
+      "strSource": "https://www.bbcgoodfood.com/recipes/7573/spicy-tomato-baked-eggs"
+    },
+    {
+      "id": "52871",
+      "title": "Yaki Udon",
+      "price": 12.55,
+      "category": "Vegetarian",
+      "strArea": "Japanese",
+      "description": "Boil some water in a large saucepan. Add 250ml cold water and the udon noodles. (As they are so thick, adding cold water helps them to cook a little bit slower so the middle cooks through). If using frozen or fresh noodles, cook for 2 mins or until al dente; dried will take longer, about 5-6 mins. Drain and leave in the colander.\r\nHeat 1 tbsp of the oil, add the onion and cabbage and sauté for 5 mins until softened. Add the mushrooms and some spring onions, and sauté for 1 more min. Pour in the remaining sesame oil and the noodles. If using cold noodles, let them heat through before adding the ingredients for the sauce – otherwise tip in straight away and keep stir-frying until sticky and piping hot. Sprinkle with the remaining spring onions.",
+      "image": "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=5Iy0MCowSvA",
+      "strSource": "https://www.bbcgoodfood.com/recipes/yaki-udon"
+    },
+    {
+      "id": "52811",
+      "title": "Ribollita",
+      "price": 12.55,
+      "category": "Vegetarian",
+      "strArea": "Italian",
+      "description": "Put 2 tablespoons of the oil in a large pot over medium heat. When it’s hot, add onion, carrot, celery and garlic; sprinkle with salt and pepper and cook, stirring occasionally, until vegetables are soft, 5 to 10 minutes.\r\nHeat the oven to 500 degrees. Drain the beans; if they’re canned, rinse them as well. Add them to the pot along with tomatoes and their juices and stock, rosemary and thyme. Bring to a boil, then reduce heat so the soup bubbles steadily; cover and cook, stirring once or twice to break up the tomatoes, until the flavors meld, 15 to 20 minutes.\r\nFish out and discard rosemary and thyme stems, if you like, and stir in kale. Taste and adjust seasoning. Lay bread slices on top of the stew so they cover the top and overlap as little as possible. Scatter red onion slices over the top, drizzle with the remaining 3 tablespoons oil and sprinkle with Parmesan.\r\nPut the pot in the oven and bake until the bread, onions and cheese are browned and crisp, 10 to 15 minutes. (If your pot fits under the broiler, you can also brown the top there.) Divide the soup and bread among 4 bowls and serve.",
+      "image": "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=BiQUYTBb6eQ",
+      "strSource": "https://cooking.nytimes.com/recipes/1016052-ribollita"
+    },
+    {
+      "id": "52931",
+      "title": "Sugar Pie",
+      "price": 12.55,
+      "category": "Dessert",
+      "strArea": "Canadian",
+      "description": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch pie dish.\r\nPlace the brown sugar and butter in a mixing bowl, and beat them together with an electric mixer until creamy and very well combined, without lumps. Beat in eggs, one at a time, incorporating the first egg before adding the next one. Add the vanilla extract and salt; beat the flour in, a little at a time, and then the milk, making a creamy batter. Pour the batter into the prepared pie dish.\r\nBake in the preheated oven for 35 minutes; remove pie, and cover the rim with aluminum foil to prevent burning. Return to oven, and bake until the middle sets and the top forms a crusty layer, about 15 more minutes. Let the pie cool to room temperature, then refrigerate for at least 1 hour before serving.",
+      "image": "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=uVQ66jiL-Dc",
+      "strSource": "http://allrecipes.com/recipe/213595/miraculous-canadian-sugar-pie/"
+    },
+    {
+      "id": "52901",
+      "title": "Rock Cakes",
+      "price": 12.55,
+      "category": "Dessert",
+      "strArea": "British",
+      "description": "Preheat oven to 180C/350F/Gas 4 and line a baking tray with baking parchment.\r\nMix the flour, sugar and baking powder in a bowl and rub in the cubed butter until the mixture looks like breadcrumbs, then mix in the dried fruit.\r\nIn a clean bowl, beat the egg and milk together with the vanilla extract.\r\nAdd the egg mixture to the dry ingredients and stir with a spoon until the mixture just comes together as a thick, lumpy dough. Add a teaspoon more milk if you really need it to make the mixture stick together.\r\nPlace golfball-sized spoons of the mixture onto the prepared baking tray. Leave space between them as they will flatten and spread out to double their size during baking.\r\nBake for 15-20 minutes, until golden-brown. Remove from the oven, allow to cool for a couple of minutes then turn them out onto a wire rack to cool.",
+      "image": "https://www.themealdb.com/images/media/meals/tqrrsq1511723764.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=tY3taZO3Aro",
+      "strSource": "https://www.bbc.co.uk/food/recipes/rock_cakes_03094"
+    },
+    {
+      "id": "52774",
+      "title": "Pad See Ew",
+      "price": 12.55,
+      "category": "Chicken",
+      "strArea": "Thai",
+      "description": "Mix Sauce in small bowl.\r\nMince garlic into wok with oil. Place over high heat, when hot, add chicken and Chinese broccoli stems, cook until chicken is light golden.\r\nPush to the side of the wok, crack egg in and scramble. Don't worry if it sticks to the bottom of the wok - it will char and which adds authentic flavour.\r\nAdd noodles, Chinese broccoli leaves and sauce. Gently mix together until the noodles are stained dark and leaves are wilted. Serve immediately!",
+      "image": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=Ohy1DELF4is",
+      "strSource": null
+    },
+    {
+      "id": "52933",
+      "title": "Rappie Pie",
+      "price": 12.55,
+      "category": "Chicken",
+      "strArea": "Canadian",
+      "description": "Preheat oven to 400 degrees F (200 degrees C). Grease a 10x14x2-inch baking pan.\r\nHeat margarine in a skillet over medium heat; stir in onion. Cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue to cook and stir until onion is very tender and dark brown, about 40 minutes more.\r\nBring chicken broth to a boil in a large pot; stir in chicken breasts, reduce heat, and simmer until chicken is no longer pink at the center, about 20 minutes. Remove from heat. Remove chicken breasts to a plate using a slotted spoon; reserve broth.\r\nJuice potatoes with an electric juicer; place dry potato flesh into a bowl and discard juice. Stir salt and pepper into potatoes; stir in enough reserved broth to make the mixture the consistency of oatmeal. Set remaining broth aside.\r\nSpread half of potato mixture evenly into the prepared pan. Lay cooked chicken breast evenly over potatoes; scatter caramelized onion evenly over chicken. Spread remaining potato mixture over onions and chicken to cover.\r\nBake in the preheated oven until golden brown, about 1 hour. Reheat chicken broth; pour over individual servings as desired.",
+      "image": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=Ys2kZnTVXAM",
+      "strSource": "http://allrecipes.com/recipe/234025/rappie-pie/"
+    },
+    {
+      "id": "52947",
+      "title": "Ma Po Tofu",
+      "price": 12.55,
+      "category": "Beef",
+      "strArea": "Chinese",
+      "description": "Add a small pinch of salt and sesame oil to minced beef. Mix well and set aside.\r\nMix 1 tablespoon of cornstarch with 2 and ½ tablespoons of water in a small bowl to make water starch.\r\nCut tofu into square cubes (around 2cms). Bring a large amount of water to a boil and then add a pinch of salt. Slide the tofu in and cook for 1 minute. Move out and drain.\r\nGet a wok and heat up around 2 tablespoons of oil, fry the minced meat until crispy. Transfer out beef out and leave the oil in.\r\nFry doubanjiang for 1 minute over slow fire and then add garlic, scallion white, ginger and fermented black beans to cook for 30 seconds until aroma. Then mix pepper flakes in.\r\nAdd water to the seasonings and bring to boil over high fire. Gently slide the tofu cubes. Add light soy sauce and beef.Slow the heat after boiling and then simmer for 6-8 minutes. Then add chopped garlic greens.\r\nStir the water starch and then pour half of the mixture to the simmering pot. Wait for around 30 seconds and then pour the other half. You can slightly taste the tofu and add pinch of salt if not salty enough. By the way, if you feel it is too spicy, add some sugar can milder the taste. But be carefully as the broth is very hot at this point.\r\nTransfer out when almost all the seasonings stick to tofu cubes. Sprinkle Szechuan peppercorn powder (to taste)and chopped garlic greens if using.\r\nServe immediately with steamed rice.",
+      "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=IhwPQL9dFYc",
+      "strSource": "https://www.chinasichuanfood.com/mapo-tofu-recipe/"
+    },
+    {
+      "id": "52832",
+      "title": "Coq au vin",
+      "price": 12.55,
+      "category": "Chicken",
+      "strArea": "French",
+      "description": "Heat 1 tbsp of the oil in a large, heavy-based saucepan or flameproof dish. Tip in the bacon and fry until crisp. Remove and drain on kitchen paper. Add the shallots to the pan and fry, stirring or shaking the pan often, for 5-8 mins until well browned all over. Remove and set aside with the bacon.\r\nPat the chicken pieces dry with kitchen paper. Pour the remaining oil into the pan, then fry half the chicken pieces, turning regularly, for 5-8 mins until well browned. Remove, then repeat with the remaining chicken. Remove and set aside.\r\nScatter in the garlic and fry briefly, then, with the heat medium-high, pour in the brandy or Cognac, stirring the bottom of the pan to deglaze. The alcohol should sizzle and start to evaporate so there is not much left.\r\nReturn the chicken legs and thighs to the pan along with any juices, then pour in a little of the wine, stirring the bottom of the pan again. Stir in the rest of the wine, the stock and tomato purée, drop in the bouquet garni, season with pepper and a pinch of salt, then return the bacon and shallots to the pan. Cover, lower the heat to a gentle simmer, add the chicken breasts and cook for 50 mins-1hr.\r\nJust before ready to serve, heat the oil for the mushrooms in a large non-stick frying pan. Add the mushrooms and fry over a high heat for a few mins until golden. Remove and keep warm.\r\nLift the chicken, shallots and bacon from the pan and transfer to a warmed serving dish. Remove the bouquet garni. To make the thickener, mix the flour, olive oil and butter in a small bowl using the back of a teaspoon. Bring the wine mixture to a gentle boil, then gradually drop in small pieces of the thickener, whisking each piece in using a wire whisk. Simmer for 1-2 mins. Scatter the mushrooms over the chicken, then pour over the wine sauce. Garnish with chopped parsley.",
+      "image": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=_ise46LADBs",
+      "strSource": "https://www.bbcgoodfood.com/recipes/1913655/coq-au-vin"
+    },
+    {
+      "id": "53051",
+      "title": "Nasi lemak",
+      "price": 12.55,
+      "category": "Seafood",
+      "strArea": "Malaysian",
+      "description": "In a medium saucepan over medium heat, stir together coconut milk, water, ground ginger, ginger root, salt, bay leaf, and rice. Cover, and bring to a boil. Reduce heat, and simmer for 20 to 30 minutes, or until done.\r\n\r\n Step 2\r\nPlace eggs in a saucepan, and cover with cold water. Bring water to a boil, and immediately remove from heat. Cover, and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water, cool, peel and slice in half. Slice cucumber.\r\n\r\n Step 3\r\nMeanwhile, in a large skillet or wok, heat 1 cup vegetable oil over medium-high heat. Stir in peanuts and cook briefly, until lightly browned. Remove peanuts with a slotted spoon and place on paper towels to soak up excess grease. Return skillet to stove. Stir in the contents of one package anchovies; cook briefly, turning, until crisp. Remove with a slotted spoon and place on paper towels. Discard oil. Wipe out skillet.\r\n\r\n Step 4\r\nHeat 2 tablespoons oil in the skillet. Stir in the onion, garlic, and shallots; cook until fragrant, about 1 or 2 minutes. Mix in the chile paste, and cook for 10 minutes, stirring occasionally. If the chile paste is too dry, add a small amount of water. Stir in remaining anchovies; cook for 5 minutes. Stir in salt, sugar, and tamarind juice; simmer until sauce is thick, about 5 minutes.\r\n\r\n Step 5\r\nServe the onion and garlic sauce over the warm rice, and top with peanuts, fried anchovies, cucumbers, and eggs.",
+      "image": "https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=IUIs4C86Ilo",
+      "strSource": "https://www.allrecipes.com/recipe/78938/malaysian-nasi-lemak/"
+    },
+    {
+      "id": "53049",
+      "title": "Apam balik",
+      "price": 12.55,
+      "category": "Dessert",
+      "strArea": "Malaysian",
+      "description": "Mix milk, oil and egg together. Sift flour, baking powder and salt into the mixture. Stir well until all ingredients are combined evenly.\r\n\r\nSpread some batter onto the pan. Spread a thin layer of batter to the side of the pan. Cover the pan for 30-60 seconds until small air bubbles appear.\r\n\r\nAdd butter, cream corn, crushed peanuts and sugar onto the pancake. Fold the pancake into half once the bottom surface is browned.\r\n\r\nCut into wedges and best eaten when it is warm.",
+      "image": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=6R8ffRRJcrg",
+      "strSource": "https://www.nyonyacooking.com/recipes/apam-balik~SJ5WuvsDf9WQ"
+    },
+    {
+      "id": "53071",
+      "title": "Beef Asado",
+      "price": 12.55,
+      "category": "Beef",
+      "strArea": "Filipino",
+      "description": "0.\tCombine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes.\r\n1.\tPut the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil.\r\n2.\tAdd Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat.\r\n3.\tTurn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside.\r\n4.\tHeat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots.\r\n5.\tSave 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens.\r\n6.\tPour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes.\r\n7.\tAdd butter and let it melt. Continue cooking until the sauce reduces to half.",
+      "image": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg",
+      "strYoutube": "https://www.youtube.com/watch?v=lNlK8DVhXXA",
+      "strSource": "https://panlasangpinoy.com/beef-asado/"
+    }
+  ]
+}
