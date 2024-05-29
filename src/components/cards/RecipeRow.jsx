@@ -1,7 +1,18 @@
+import axios from "axios";
 import { Link } from "react-router-dom";
+import { toast } from "react-toastify";
 
-/* eslint-disable react/prop-types */
-export default function RecipeRow({ recipe }) {
+export default function RecipeRow({ recipe, onDeleteRecipe }) {
+  const handleDeleteRecipe = async () => {
+    if (window.confirm("Are you sure you want to delete this recipe?")) {
+      try {
+        await axios.delete(`http://localhost:3000/recipes/${recipe.id}`);
+      } catch (error) {
+        toast.error("Failed to delete recipe.");
+      }
+    }
+  };
+
   return (
     <tr>
       <th>{recipe?.id}</th>
@@ -15,7 +26,9 @@ export default function RecipeRow({ recipe }) {
         >
           Edit
         </Link>
-        <button className="btn btn-xs btn-error">Delete</button>
+        <button className="btn btn-xs btn-error" onClick={handleDeleteRecipe}>
+          Delete
+        </button>
       </td>
     </tr>
   );

@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-
+import { toast } from "react-toastify";
 const EditRecipe = () => {
   const { id } = useParams();
 
@@ -41,8 +41,12 @@ const EditRecipe = () => {
       category,
       description,
     };
-
-    await axios.patch(`http://localhost:3000/recipes/${id}`, recipeData);
+    try {
+      await axios.patch(`http://localhost:3000/recipes/${id}`, recipeData);
+      toast.success("Recipe updated successfully!");
+    } catch (error) {
+      toast.error("Failed to update recipe.");
+    }
   };
   return (
     <>
