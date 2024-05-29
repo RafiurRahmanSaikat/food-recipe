@@ -1,6 +1,5 @@
 /* eslint-disable react/prop-types */
 export default function CategoryCard({ category }) {
-  console.log(category);
   return (
     <div className="p-1 rounded-3xl   bg-sky-700 hover:bg-sky-900 duration-500 text-white ">
       <div className="flex flex-col items-center p-1">

@@ -5,6 +5,7 @@ import { auth } from "../firebase/firebase.config";
 // eslint-disable-next-line react/prop-types
 export default function PrivateRoute({ children }) {
   const [user, loading] = useAuthState(auth);
+  console.log(user);
   let location = useLocation();
   if (loading) {
     return <p>Loading...</p>;
