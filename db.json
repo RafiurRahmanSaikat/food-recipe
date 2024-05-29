@@ -153,17 +153,6 @@
       "strSource": "https://www.themediterraneandish.com/egyptian-koshari-recipe/"
     },
     {
-      "id": "52769",
-      "title": "Kapsalon",
-      "price": 12.55,
-      "category": "Lamb",
-      "strArea": "Dutch",
-      "description": "Cut the meat into strips. Heat oil in a pan and fry the strips for 6 minutes until it's ready.\r\nBake the fries until golden brown in a deep fryrer. When ready transfer to a backing dish. Make sure the fries are spread over the whole dish.\r\nCover the fries with a new layer of meat and spread evenly.\r\nAdd a layer of cheese over the meat. You can also use grated cheese. When done put in the oven for a few minutes until the cheese is melted.\r\nChop the lettuce, tomato and cucumber in small pieces and mix together. for a basic salad. As extra you can add olives jalapenos and a red union.\r\nDived the salad over the dish and Serve with garlicsauce and hot sauce",
-      "image": "https://www.themealdb.com/images/media/meals/sxysrt1468240488.jpg",
-      "strYoutube": "https://www.youtube.com/watch?v=UIcuiU1kV8I",
-      "strSource": null
-    },
-    {
       "id": "52980",
       "title": "Stamppot",
       "price": 12.55,
@@ -263,17 +252,6 @@
       "strSource": "http://allrecipes.com/recipe/213595/miraculous-canadian-sugar-pie/"
     },
     {
-      "id": "52901",
-      "title": "Rock Cakes",
-      "price": 12.55,
-      "category": "Dessert",
-      "strArea": "British",
-      "description": "Preheat oven to 180C/350F/Gas 4 and line a baking tray with baking parchment.\r\nMix the flour, sugar and baking powder in a bowl and rub in the cubed butter until the mixture looks like breadcrumbs, then mix in the dried fruit.\r\nIn a clean bowl, beat the egg and milk together with the vanilla extract.\r\nAdd the egg mixture to the dry ingredients and stir with a spoon until the mixture just comes together as a thick, lumpy dough. Add a teaspoon more milk if you really need it to make the mixture stick together.\r\nPlace golfball-sized spoons of the mixture onto the prepared baking tray. Leave space between them as they will flatten and spread out to double their size during baking.\r\nBake for 15-20 minutes, until golden-brown. Remove from the oven, allow to cool for a couple of minutes then turn them out onto a wire rack to cool.",
-      "image": "https://www.themealdb.com/images/media/meals/tqrrsq1511723764.jpg",
-      "strYoutube": "https://www.youtube.com/watch?v=tY3taZO3Aro",
-      "strSource": "https://www.bbc.co.uk/food/recipes/rock_cakes_03094"
-    },
-    {
       "id": "52774",
       "title": "Pad See Ew",
       "price": 12.55,
@@ -338,24 +316,6 @@
       "image": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
       "strYoutube": "https://www.youtube.com/watch?v=6R8ffRRJcrg",
       "strSource": "https://www.nyonyacooking.com/recipes/apam-balik~SJ5WuvsDf9WQ"
-    },
-    {
-      "id": "53071",
-      "title": "Beef Asado",
-      "price": 12.55,
-      "category": "Beef",
-      "strArea": "Filipino",
-      "description": "0.\tCombine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes.\r\n1.\tPut the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil.\r\n2.\tAdd Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat.\r\n3.\tTurn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside.\r\n4.\tHeat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots.\r\n5.\tSave 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens.\r\n6.\tPour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes.\r\n7.\tAdd butter and let it melt. Continue cooking until the sauce reduces to half.",
-      "image": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg",
-      "strYoutube": "https://www.youtube.com/watch?v=lNlK8DVhXXA",
-      "strSource": "https://panlasangpinoy.com/beef-asado/"
-    },
-    {
-      "id": "s",
-      "title": "s",
-      "price": "",
-      "category": "Beef",
-      "description": "s"
     }
   ]
 }

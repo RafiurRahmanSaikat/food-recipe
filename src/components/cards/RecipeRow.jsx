@@ -7,6 +7,7 @@ export default function RecipeRow({ recipe, onDeleteRecipe }) {
     if (window.confirm("Are you sure you want to delete this recipe?")) {
       try {
         await axios.delete(`http://localhost:3000/recipes/${recipe.id}`);
+        toast.info("Delete Succsfull .");
       } catch (error) {
         toast.error("Failed to delete recipe.");
       }
@@ -14,8 +15,13 @@ export default function RecipeRow({ recipe, onDeleteRecipe }) {
   };
 
   return (
-    <tr>
+    <tr className="mx-auto">
       <th>{recipe?.id}</th>
+      <img
+        src={recipe.image}
+        alt={recipe.image}
+        className="size-16 rounded object-cover"
+      />
       <td>{recipe?.title}</td>
       <td>{recipe?.price}</td>
       <td>{recipe?.category}</td>

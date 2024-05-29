@@ -15,13 +15,16 @@ export default function ManageAllRecipe() {
   }, []);
   console.log(recipes);
   return (
-    <div className="overflow-x-auto w-full px-16 mt-10">
-      <h1 className="text-3xl mb-4">Mange All Recipe</h1>
-      <table className="table table-zebra">
+    <div className="overflow-x-auto mx-auto w-full px-16 mt-10">
+      <h1 className="text-3xl mb-4 text-emerald-600 text-center">
+        Mange All Recipe
+      </h1>
+      <table className="table table-zebra ">
         {/* head */}
         <thead>
           <tr>
             <th>Id</th>
+            <th>Image</th>
             <th>Title</th>
             <th>Price</th>
             <th>Category</th>
